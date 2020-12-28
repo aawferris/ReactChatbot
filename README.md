@@ -9,3 +9,8 @@ This will be a chatbot whose function revolves around mental health and addictio
 This also serves a mini-project for me to learn more React and JS logic and skills
 
 ## Changelog
+
+### References
+
+I am following along with this Medium article:
+https://medium.com/javascript-in-plain-english/may-i-help-you-build-a-chatbot-in-10-minutes-with-react-df19e940bbc8
